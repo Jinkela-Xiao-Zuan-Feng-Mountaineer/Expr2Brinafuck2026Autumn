@@ -6,7 +6,7 @@
 
 ## 建置與介面
 
-需要 C++17 編譯器、GNU Make 與 POSIX shell 工具。
+需要 C++20 編譯器、GNU Make 與 POSIX shell 工具。
 
 - Linux、macOS 可使用終端機
 - Windows 可使用 w64devkit、MSYS2 或 WSL。

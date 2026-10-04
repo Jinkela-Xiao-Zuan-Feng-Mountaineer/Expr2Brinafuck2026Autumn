@@ -1,5 +1,5 @@
 CXX = c++
-CXXFLAGS = -O2 -std=c++17 -Wall -Wextra -Wpedantic
+CXXFLAGS = -O2 -std=c++20 -Wall -Wextra -Wpedantic
 
 ifeq ($(OS),Windows_NT)
 EXEEXT = .exe

@@ -1,0 +1,7 @@
+a=input()
+b=a
+print(a*a)
+print(a*255)
+a=a+1
+print(b)
+print(a)

@@ -26,7 +26,7 @@ print(b)
 
 - Deadline : 10/28 上傳至 eeclass
 
-請將所有檔案，按照原本的資料夾格式，原樣的打包成 zip 上傳到 eeclass，讓助教可以與原來的設定一樣，使用 make 編譯你的程式。
+請將所有檔案，按照原本的資料夾格式 (如附件) ，讓助教可以與原來的設定一樣，使用 make 編譯你的程式，打包成 zip 命名為 學號\_姓名.zip 後上傳到 eeclass。
 
 助教只會保留 ExprCompiler 內的文件，以及會替換掉 benchmarks 的所有內容與 `run_cases.sh` ，請不要把你的編輯，放到 ExprCompiler 以外的地方或是修改在上述文件中。
 

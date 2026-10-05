@@ -1,0 +1,5 @@
+a=input()
+print(a*16*16)
+print(a-a)
+print((a+200)+56)
+print(a*7+a)
